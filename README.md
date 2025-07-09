@@ -1,24 +1,26 @@
-# Sales-Performance-Dashboard
+# Marketing Analytics Dashboard
 
 ## Overview
-Developed a comprehensive Sales Analytics dashboard that enabled territory-based sales tracking and performance monitoring. Integrated interactive visuals to help teams identify trends, evaluate regional performance, and compare actual vs. target metrics to optimize decision-making.
+A comprehensive marketing analytics solution for real-time campaign monitoring and optimization.
 
 ## Key Features
 * Interactive Power BI Dashboard
-* Territory-based sales tracking
+* Real-time campaign tracking
 * Custom filtering capabilities
 * Real-time updates
+* Performance metrics visualizatio
 
 ## Technical Details
 * Built with Power BI
 * DAX measures for complex calculations
-* Custom visuals for enhanced reporting
+* Custom visuals for marketing KPIs
 
 ## Impact
 * Improved decision-making process
-* Enhanced sales performance visibility
+* Enhanced campaign performance visibility
 * Streamlined reporting workflow
 
 <br>
 
-  ![sales-dashboard](https://github.com/user-attachments/assets/05fd51bc-d465-4a82-a01d-d5c0afb45d2b)
+![campaign_performance](https://github.com/user-attachments/assets/ef6ffa26-b9c5-4167-aac5-0996a20dc327)
+
